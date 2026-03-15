@@ -6,13 +6,70 @@
 
 <div align="center">
 
-# <img src="https://img.icons8.com/fluency/96/robot.png" width="60" style="filter: drop-shadow(0 0 20px #FFD700);"/> ASAD SHABIR
+<!-- Animated Hero Banner -->
+<img src="https://img.icons8.com/fluency/256/robot.png" width="150" style="filter: drop-shadow(0 0 30px #FFD700) drop-shadow(0 0 60px #EC4899); animation: pulse 2s ease-in-out infinite;"/>
 
-### <span style="background: linear-gradient(90deg, #FFD700, #EC4899, #00E5FF, #6B21A8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.3em;">🚀 AI AGENTS & AUTOMATION ENGINEER</span>
+<br/>
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=500&color=FFD700&center=true&vCenter=true&width=700&lines=AI+Agents+Architect;Automation+Engineer;Prompt+Engineering+Expert;Full+Stack+AI+Developer;Building+Intelligent+Futures)
+# <span style="background: linear-gradient(90deg, #FFD700, #EC4899, #00E5FF, #FFD700); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.5em; font-weight: bold; text-shadow: 0 0 30px rgba(255,215,0,0.5);">✨ ASAD SHABIR ✨</span>
+
+### <span style="background: linear-gradient(90deg, #00E5FF, #FFD700, #EC4899, #00FF9F); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.2em;">🚀 AI AGENTS & AUTOMATION ENGINEER</span>
+
+<!-- Premium Badges Row -->
+![Premium Developer](https://img.shields.io/badge/✨-Premium_Developer-FFD700?style=for-the-badge&logo=github&logoColor=black)
+![AI Expert](https://img.shields.io/badge/🧠-AI_Expert-EC4899?style=for-the-badge&logo=openai&logoColor=white)
+![Automation Master](https://img.shields.io/badge/⚙️-Automation_Master-00E5FF?style=for-the-badge&logo=robot&logoColor=black)
+
+<br/>
+
+<!-- Animated Typing Effect -->
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=600&color=FFD700&center=true&vCenter=true&width=750&lines=🤖+AI+Agents+Architect;⚡+Automation+Engineer;💎+Prompt+Engineering+Expert;🚀+Full+Stack+AI+Developer;🔮+Building+Intelligent+Futures;💡+Innovation+Driven)
+
+<br/>
+
+<!-- Premium Social Badges with Icons -->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/asadshabir">
+        <img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e" alt="GitHub"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/asad-shabir-programmer110/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://asadshabir.netlify.app">
+        <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=github-pages&logoColor=black&labelColor=1a1a2e" alt="Portfolio"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:asadshabir@example.com">
+        <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Animated Visitor Counter with Glow -->
+<img src="https://komarev.com/ghpvc/?username=asadshabir&label=👁+PROFILE+VIEWS&color=FFD700&style=flat-square&logo=github&logoColor=white" alt="Visitor Count"/>
+
+<br/>
+<br/>
 
 </div>
+
+<!-- Custom CSS Animation for Pulse Effect -->
+<style>
+@keyframes pulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.05); opacity: 0.9; }
+}
+</style>
 
 ---
 
@@ -20,26 +77,53 @@
 
 <div align="center">
 
+<!-- Animated Profile Card with Enhanced Styling -->
 <table>
   <tr>
-    <td align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px; padding: 30px;">
-      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="100" style="filter: drop-shadow(0 0 30px #FFD700);"/><br/>
-      <h2 style="background: linear-gradient(90deg, #FFD700, #EC4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 15px 0;">Asad Shabir</h2>
-      <p style="color: #00E5FF; font-size: 1.1em; margin: 5px 0;">AI Agents & Automation Engineer</p>
-      <p style="color: #00FF9F; font-size: 0.9em;">📍 Pakistan</p>
+    <td align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #2d1f3d 100%); border-radius: 25px; padding: 35px; border: 3px solid #FFD700; box-shadow: 0 0 40px rgba(255,215,0,0.3);">
+      <img src="https://img.icons8.com/fluency/128/artificial-intelligence.png" width="120" style="filter: drop-shadow(0 0 40px #FFD700); animation: glow 3s ease-in-out infinite;"/><br/><br/>
+      <h2 style="background: linear-gradient(90deg, #FFD700, #EC4899, #00E5FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 15px 0; font-size: 1.8em; font-weight: bold;">Asad Shabir</h2>
+      <p style="color: #00E5FF; font-size: 1.2em; margin: 8px 0; font-weight: bold;">AI Agents & Automation Engineer</p>
+      <p style="color: #00FF9F; font-size: 1em; margin: 5px 0;">📍 Pakistan</p>
+      <br/>
 
-      | Focus Areas |
-      |-------------|
-      | 🧠 AI Agent Systems |
-      | ⚙️ Automation Workflows |
-      | 🤖 Intelligent Assistants |
-      | 📱 Full-Stack AI |
-      | 🔮 Humanoid Robotics |
+      <!-- Enhanced Focus Areas Table -->
+      <table style="background: rgba(255,255,255,0.05); border-radius: 15px; padding: 15px;">
+        <tr>
+          <td align="center" style="padding: 10px;">
+            <img src="https://img.icons8.com/fluency/40/neural-network.png" width="40"/><br/>
+            <span style="color: #FFD700; font-size: 0.9em;">AI Agent Systems</span>
+          </td>
+          <td align="center" style="padding: 10px;">
+            <img src="https://img.icons8.com/fluency/40/automation.png" width="40"/><br/>
+            <span style="color: #EC4899; font-size: 0.9em;">Automation</span>
+          </td>
+          <td align="center" style="padding: 10px;">
+            <img src="https://img.icons8.com/fluency/40/chatbot.png" width="40"/><br/>
+            <span style="color: #00E5FF; font-size: 0.9em;">AI Assistants</span>
+          </td>
+          <td align="center" style="padding: 10px;">
+            <img src="https://img.icons8.com/fluency/40/full-stack.png" width="40"/><br/>
+            <span style="color: #00FF9F; font-size: 0.9em;">Full-Stack AI</span>
+          </td>
+          <td align="center" style="padding: 10px;">
+            <img src="https://img.icons8.com/fluency/40/robot.png" width="40"/><br/>
+            <span style="color: #7B61FF; font-size: 0.9em;">Robotics</span>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
 
 </div>
+
+<style>
+@keyframes glow {
+  0%, 100% { filter: drop-shadow(0 0 30px #FFD700); }
+  50% { filter: drop-shadow(0 0 50px #FFD700) drop-shadow(0 0 70px #EC4899); }
+}
+</style>
 
 ---
 
