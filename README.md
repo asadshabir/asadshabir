@@ -1,223 +1,266 @@
 <!--
-  Asad Shabir - Elite Futuristic GitHub Profile README
-  Theme: AI Agents & Automation Engineer
-  Color Palette: #00E5FF (Neon Cyan), #FF00FF (Cyber Magenta), #00FF9F (Neon Green), #0D1117 (Dark Background)
+  Asad Shabir - Premium 3D Elite GitHub Profile
+  Theme: AI Agents & Automation Engineer - Premium Edition
+  Color Palette: #FFD700 (Gold), #6B21A8 (Deep Purple), #EC4899 (Rose), #00E5FF (Neon Cyan), #0D1117 (Dark)
 -->
 
 <div align="center">
 
-# 🤖 ASAD SHABIR
+# <img src="https://img.icons8.com/fluency/96/robot.png" width="60" style="filter: drop-shadow(0 0 20px #FFD700);"/> ASAD SHABIR
 
-### 👨‍💻 AI AGENTS & AUTOMATION ENGINEER
+### <span style="background: linear-gradient(90deg, #FFD700, #EC4899, #00E5FF, #6B21A8); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.3em;">🚀 AI AGENTS & AUTOMATION ENGINEER</span>
 
-  ![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=600&lines=AI+Agents+Engineer;Automation+Architect;Prompt+Engineer;Full+Stack+AI+Developer;Humanoid+Robotics+Enthusiast;Building+Intelligent+Systems)
-
-</div>
-
----
-
-## 🖥️ TERMINAL INFO CARD
-
-```terminal
-Name: Asad Shabir
-Role: AI Agents & Automation Engineer
-Location: Pakistan
-Focus: AI Agents • Automation • Intelligent Systems
-```
-
----
-
-## 🏆 GITHUB TROPHIES
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=asadshabir&theme=darkhub&no-frame=true&margin-w=15)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=500&color=FFD700&center=true&vCenter=true&width=700&lines=AI+Agents+Architect;Automation+Engineer;Prompt+Engineering+Expert;Full+Stack+AI+Developer;Building+Intelligent+Futures)
 
 </div>
 
 ---
 
-## 🚀 ABOUT ME
+## 🏆 PREMIUM PROFILE CARD
 
 <div align="center">
 
-**He/Him** • **Pakistan**
+<table>
+  <tr>
+    <td align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px; padding: 30px;">
+      <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="100" style="filter: drop-shadow(0 0 30px #FFD700);"/><br/>
+      <h2 style="background: linear-gradient(90deg, #FFD700, #EC4899); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 15px 0;">Asad Shabir</h2>
+      <p style="color: #00E5FF; font-size: 1.1em; margin: 5px 0;">AI Agents & Automation Engineer</p>
+      <p style="color: #00FF9F; font-size: 0.9em;">📍 Pakistan</p>
 
-</div>
-
-> Passionate AI developer focused on building intelligent assistants, automation workflows, and AI agent ecosystems. Experienced in designing full-stack AI systems using modern frameworks and agent architectures.
-
-**Focus Areas:**
-- 🧠 AI Agent Systems & Automation
-- 🤖 Intelligent Assistants & Chatbots
-- ⚙️ Automation Workflows & Orchestration
-- 📱 Full-Stack AI Development
-- 🔮 Future Robotics & Humanoid Systems
-
----
-
-## 📈 ACTIVITY GRAPH
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asadshabir&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-## 💻 TECH STACK
-
-### AI & Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e&color=00E5FF)
-![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI+Agents+SDK-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e&color=00FF9F)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1a2e&color=00E5FF)
-![Chainlit](https://img.shields.io/badge/Chainlit-FF6B6B?style=for-the-badge&logo=chainlit&logoColor=white&labelColor=1a1a2e&color=FF00FF)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1a2e&color=00FF9F)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white&labelColor=1a1a2e&color=FF00FF)
-
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1a1a2e&color=00E5FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a2e&color=00FF9F)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e&color=00E5FF)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e&color=FF00FF)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=1a1a2e&color=00FF9F)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e&color=00E5FF)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=00FF9F)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=1a1a2e&color=FF00FF)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=1a1a2e&color=00E5FF)
-
-### AI Specializations
-
-![AI Agent Systems](https://img.shields.io/badge/AI+Agent+Systems-FF00FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=1a1a2e&color=FF00FF)
-![Prompt Engineering](https://img.shields.io/badge/Prompt+Engineering-00E5FF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1a1a2e&color=00E5FF)
-![AI Driven Development](https://img.shields.io/badge/AI+Driven+Development-00FF9F?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e&color=00FF9F)
-![AI Native Development](https://img.shields.io/badge/AI+Native+Development-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e&color=FF6B6B)
-![Automation Workflows](https://img.shields.io/badge/Automation+Workflows-7B61FF?style=for-the-badge&logo=zap&logoColor=white&labelColor=1a1a2e&color=7B61FF)
-![Conversational AI](https://img.shields.io/badge/Conversational+AI-00C8FF?style=for-the-badge&logo=dialogflow&logoColor=white&labelColor=1a1a2e&color=00C8FF)
-
----
-
-## 🌟 FEATURED PROJECTS
-
-### 1️⃣ Personal AI Employee
-
-<div align="center">
-
-![Personal AI Employee](https://img.shields.io/badge/Project-Featured-00E5FF?style=for-the-badge)
-
-**An advanced AI employee system capable of performing autonomous tasks, automation workflows, and intelligent decision-making using AI agent architecture.**
-
-| Features | Technologies |
-|----------|-------------|
-| 🤖 AI Agent Architecture | Python, OpenAI Agents SDK |
-| ⚙️ Automation Workflows | FastAPI, n8n |
-| 🧠 Intelligent Assistant | Chainlit, SQLite |
-| 🔄 Multi-Task Execution | AI Agent Orchestration |
-
-[🔗 View Repository](https://github.com/asadshabir/Personal-AI-Employee)
+      | Focus Areas |
+      |-------------|
+      | 🧠 AI Agent Systems |
+      | ⚙️ Automation Workflows |
+      | 🤖 Intelligent Assistants |
+      | 📱 Full-Stack AI |
+      | 🔮 Humanoid Robotics |
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-### 2️⃣ Full Stack Todo App (Hackathon II Project)
+## 🎯 GITHUB ACHIEVEMENTS
 
 <div align="center">
 
-![Full Stack Todo](https://img.shields.io/badge/Project-Hackathon-FF00FF?style=for-the-badge)
-
-**A modern full-stack productivity application with advanced UI, backend API, and task management capabilities.**
-
-| Features | Technologies |
-|----------|-------------|
-| 🎨 Modern UI/UX | React, TypeScript |
-| 🔧 Backend APIs | FastAPI, Python |
-| 📋 Task Management | SQLite, REST APIs |
-| 🔄 Productivity Workflows | Redux Toolkit |
-
-[🔗 View Repository](https://github.com/asadshabir/full-stack-todo-app)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=asadshabir&theme=darkhub&no-frame=true&margin-w=20&row=1)
 
 </div>
 
 ---
 
-### 3️⃣ Humanoid Robotic Book
+## 📊 ACTIVITY DASHBOARD
 
 <div align="center">
 
-![Humanoid Robotics](https://img.shields.io/badge/Project-Education-00FF9F?style=for-the-badge)
-
-**A futuristic educational resource focused on humanoid robotics, AI systems, and the future of intelligent machines.**
-
-| Features | Topics |
-|----------|--------|
-| 🤖 Robotics Concepts | Humanoid Systems |
-| 🔮 AI Future Vision | AI & Robotics Integration |
-| 📚 Educational Content | Technical Documentation |
-| 🧠 AI Systems | Future Technologies |
-
-[🔗 View Repository](https://github.com/asadshabir/Humanoid-Robotic-Book)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asadshabir&theme=tokyo-night&hide_border=true&line=FFD700&point=EC4899&area=true)
 
 </div>
 
 ---
 
-### 4️⃣ MediBridge
+## 🛠️ PREMIUM TECH STACK
 
 <div align="center">
 
-![MediBridge](https://img.shields.io/badge/Project-Healthcare-7B61FF?style=for-the-badge)
+![Tech Stack Banner](https://img.shields.io/badge/🛠️-Tech_Stack-FFD700?style=for-the-badge)
 
-**A healthcare technology platform designed to bridge medical services with digital systems for improved healthcare accessibility.**
+</div>
 
-| Features | Technologies |
-|----------|-------------|
-| 🏥 Healthcare Technology | Digital Health Systems |
-| 🏗️ System Architecture | Scalable Platform |
-| 🔗 Medical Integration | API Integration |
-| 📊 Digital Platform | Modern Tech Stack |
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <h4 style="color: #FFD700;">🧠 AI & Backend</h4>
+      <img src="https://img.icons8.com/fluency/96/python.png" width="50"/>
+      <img src="https://img.icons8.com/fluency/96/openai.png" width="50"/>
+      <img src="https://img.icons8.com/fluency/96/fastapi.png" width="50"/>
+      <img src="https://img.icons8.com/fluency/96/database.png" width="50"/>
+      <br/>
+      <span style="color: #00E5FF; font-size: 0.85em;">Python • OpenAI • FastAPI • SQLite</span>
+    </td>
+    <td align="center" width="25%">
+      <h4 style="color: #EC4899;">🎨 Frontend</h4>
+      <img src="https://img.icons8.com/fluency/96/react.png" width="50"/>
+      <img src="https://img.icons8.com/fluency/96/typescript.png" width="50"/>
+      <img src="https://img.icons8.com/fluency/96/javascript.png" width="50"/>
+      <img src="https://img.icons8.com/fluency/96/redux.png" width="50"/>
+      <br/>
+      <span style="color: #00FF9F; font-size: 0.85em;">React • TypeScript • JavaScript • Redux</span>
+    </td>
+    <td align="center" width="25%">
+      <h4 style="color: #00E5FF;">⚙️ Automation</h4>
+      <img src="https://img.icons8.com/fluency/96/n8n.png" width="50"/>
+      <img src="https://img.icons8.com/fluency/96/git.png" width="50"/>
+      <img src="https://img.icons8.com/fluency/96/github.png" width="50"/>
+      <img src="https://img.icons8.com/fluency/96/docker.png" width="50"/>
+      <br/>
+      <span style="color: #FFD700; font-size: 0.85em;">n8n • Git • GitHub • Docker</span>
+    </td>
+    <td align="center" width="25%">
+      <h4 style="color: #00FF9F;">🤖 AI Specializations</h4>
+      <img src="https://img.icons8.com/fluency/96/neural-network.png" width="50"/>
+      <img src="https://img.icons8.com/fluency/96/chatbot.png" width="50"/>
+      <img src="https://img.icons8.com/fluency/96/robot.png" width="50"/>
+      <img src="https://img.icons8.com/fluency/96/idea.png" width="50"/>
+      <br/>
+      <span style="color: #EC4899; font-size: 0.85em;">Agent Systems • Prompt Engineering • Conversational AI</span>
+    </td>
+  </tr>
+</table>
 
-[🔗 View Repository](https://github.com/asadshabir/Medibridge)
+<div align="center">
+
+| Specialization | Badge |
+|----------------|-------|
+| **AI Agent Systems** | ![AI Agents](https://img.shields.io/badge/AI+Agent+Systems-FFD700?style=for-the-badge&logo=openai&logoColor=black) |
+| **Prompt Engineering** | ![Prompt Engineering](https://img.shields.io/badge/Prompt+Engineering-EC4899?style=for-the-badge&logo=microsoft&logoColor=white) |
+| **AI Driven Development** | ![AI Dev](https://img.shields.io/badge/AI+Driven+Dev-00E5FF?style=for-the-badge&logo=github&logoColor=white) |
+| **Automation Workflows** | ![Automation](https://img.shields.io/badge/Automation-00FF9F?style=for-the-badge&logo=zap&logoColor=white) |
+| **Conversational AI** | ![Conversational AI](https://img.shields.io/badge/Conversational+AI-7B61FF?style=for-the-badge&logo=dialogflow&logoColor=white) |
 
 </div>
 
 ---
 
-## 🤖 AI SYSTEMS I HAVE BUILT
+## 🚀 FEATURED PROJECTS
 
 <div align="center">
 
-![Study Assistant AI](https://img.shields.io/badge/Study+Assistant+AI-00E5FF?style=for-the-badge&logo=openai&logoColor=white)
-![Content Writer Bot](https://img.shields.io/badge/Content+Writer+Bot-FF00FF?style=for-the-badge&logo=writer&logoColor=white)
-![Customer Support AI](https://img.shields.io/badge/Customer+Support+AI-00FF9F?style=for-the-badge&logo=support&logoColor=white)
-![Research Assistant](https://img.shields.io/badge/Research+Assistant-7B61FF?style=for-the-badge&logo=google-scholar&logoColor=white)
-![Automation Bots](https://img.shields.io/badge/Automation+Bots-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
+![Projects Banner](https://img.shields.io/badge/🚀-Featured_Projects-6B21A8?style=for-the-badge)
+
+</div>
+
+<table>
+  <tr>
+    <td style="background: linear-gradient(135deg, #1a1a2e 0%, #2d1f3d 100%); border-radius: 15px; padding: 20px; border: 2px solid #FFD700;">
+      <h3 style="color: #FFD700; margin-top: 0;">🤖 Personal AI Employee</h3>
+      <p style="color: #00E5FF; font-size: 0.9em;">Advanced AI employee system with autonomous task execution</p>
+
+      | Features | Tech Stack |
+      |----------|------------|
+      | 🤖 AI Agent Architecture | Python, OpenAI Agents SDK |
+      | ⚙️ Automation Workflows | FastAPI, n8n |
+      | 🧠 Intelligent Assistant | Chainlit, SQLite |
+
+      [🔗 View Repository](https://github.com/asadshabir/Personal-AI-Employee)
+    </td>
+  </tr>
+  <tr>
+    <td style="background: linear-gradient(135deg, #1a1a2e 0%, #2d1f3d 100%); border-radius: 15px; padding: 20px; border: 2px solid #EC4899;">
+      <h3 style="color: #EC4899; margin-top: 0;">📱 Full Stack Todo App</h3>
+      <p style="color: #00FF9F; font-size: 0.9em;">Modern productivity application with advanced UI</p>
+
+      | Features | Tech Stack |
+      |----------|------------|
+      | 🎨 Modern UI/UX | React, TypeScript |
+      | 🔧 Backend APIs | FastAPI, Python |
+      | 📋 Task Management | SQLite, REST |
+
+      [🔗 View Repository](https://github.com/asadshabir/full-stack-todo-app)
+    </td>
+  </tr>
+  <tr>
+    <td style="background: linear-gradient(135deg, #1a1a2e 0%, #2d1f3d 100%); border-radius: 15px; padding: 20px; border: 2px solid #00E5FF;">
+      <h3 style="color: #00E5FF; margin-top: 0;">🤖 Humanoid Robotic Book</h3>
+      <p style="color: #FFD700; font-size: 0.9em;">Educational resource on humanoid robotics & AI</p>
+
+      | Features | Topics |
+      |----------|--------|
+      | 🤖 Robotics Concepts | Humanoid Systems |
+      | 🔮 AI Future Vision | AI Integration |
+      | 📚 Educational Content | Technical Docs |
+
+      [🔗 View Repository](https://github.com/asadshabir/Humanoid-Robotic-Book)
+    </td>
+  </tr>
+  <tr>
+    <td style="background: linear-gradient(135deg, #1a1a2e 0%, #2d1f3d 100%); border-radius: 15px; padding: 20px; border: 2px solid #00FF9F;">
+      <h3 style="color: #00FF9F; margin-top: 0;">🏥 MediBridge</h3>
+      <p style="color: #EC4899; font-size: 0.9em;">Healthcare technology platform</p>
+
+      | Features | Technologies |
+      |----------|-------------|
+      | 🏥 Healthcare Tech | Digital Health |
+      | 🏗️ System Architecture | Scalable Platform |
+      | 🔗 Medical Integration | API Integration |
+
+      [🔗 View Repository](https://github.com/asadshabir/Medibridge)
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## 🧠 AI SYSTEMS BUILT
 
 <div align="center">
 
-### GitHub Stats
+![AI Systems Banner](https://img.shields.io/badge/🧠-AI_Systems_Built-00E5FF?style=for-the-badge)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadshabir&theme=dark&bg_color=0D1117&title_color=00E5FF&text_color=00FF9F&icon_color=FF00FF&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="70"/>
+      <br/>
+      <b style="color: #FFD700;">Study Assistant AI</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/edit.png" width="70"/>
+      <br/>
+      <b style="color: #EC4899;">Content Writer Bot</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/support.png" width="70"/>
+      <br/>
+      <b style="color: #00E5FF;">Customer Support AI</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/science.png" width="70"/>
+      <br/>
+      <b style="color: #00FF9F;">Research Assistant</b>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/fluency/96/robot.png" width="70"/>
+      <br/>
+      <b style="color: #7B61FF;">Automation Bots</b>
+    </td>
+  </tr>
+</table>
 
-### GitHub Streak
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=asadshabir&theme=dark&background=0D1117&border=00E5FF&stroke=00E5FF&ring=00E5FF&fire=FF00FF&currStreakNum=00FF9F&sideNums=00FF9F&dates=00E5FF)
+---
 
-### Top Languages
+## 📈 GITHUB ANALYTICS
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadshabir&theme=dark&bg_color=0D1117&title_color=00E5FF&text_color=00FF9F&icon_color=FF00FF&hide_border=true&layout=compact)
+<div align="center">
+
+![Analytics Banner](https://img.shields.io/badge/📈-GitHub_Analytics-FF00FF?style=for-the-badge)
+
+<table>
+  <tr>
+    <td align="center" style="border: 2px solid #FFD700; border-radius: 15px; padding: 15px;">
+      <h4 style="color: #FFD700;">GitHub Stats</h4>
+      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadshabir&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=00FF9F&icon_color=EC4899&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+    </td>
+    <td align="center" style="border: 2px solid #EC4899; border-radius: 15px; padding: 15px;">
+      <h4 style="color: #EC4899;">GitHub Streak</h4>
+      ![GitHub Streak](https://streak-stats.demolab.com?user=asadshabir&theme=dark&background=0D1117&border=FFD700&stroke=FFD700&ring=FFD700&fire=EC4899&currStreakNum=00FF9F&sideNums=00FF9F&dates=00E5FF)
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2" style="border: 2px solid #00E5FF; border-radius: 15px; padding: 15px;">
+      <h4 style="color: #00E5FF;">Top Languages</h4>
+      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadshabir&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=00FF9F&icon_color=EC4899&hide_border=true&layout=compact)
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -227,23 +270,32 @@ Focus: AI Agents • Automation • Intelligent Systems
 
 <div align="center">
 
-### Animated Contribution Snake
+![Visualization Banner](https://img.shields.io/badge/🐍-Contribution_Visualization-00FF9F?style=for-the-badge)
 
-![Snake Animation](https://raw.githubusercontent.com/asadshabir/asadshabir/output/github-contribution-grid-snake.svg)
-
-### Contribution Graph
-
-![Contribution Graph](https://ghchart.rshah.org/00E5FF/asadshabir)
+<table>
+  <tr>
+    <td align="center">
+      <h4 style="color: #FFD700;">Animated Contribution Snake</h4>
+      ![Snake Animation](https://raw.githubusercontent.com/asadshabir/asadshabir/output/github-contribution-grid-snake.svg)
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h4 style="color: #EC4899;">Contribution Graph</h4>
+      ![Contribution Graph](https://ghchart.rshah.org/FFD700/asadshabir)
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 👁️ VISITOR COUNT
+## 👁️ VISITOR STATISTICS
 
 <div align="center">
 
-![Visitor Counter](https://komarev.com/ghpvc/?username=asadshabir&label=Profile+Views&color=00E5FF&style=for-the-badge&logo=github&logoColor=white)
+![Visitor Counter](https://komarev.com/ghpvc/?username=asadshabir&label=Profile+Views&color=FFD700&style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -253,9 +305,33 @@ Focus: AI Agents • Automation • Intelligent Systems
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=github-pages&logoColor=white&labelColor=1a1a2e)](https://asadshabir.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/asadshabir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/asad-shabir-programmer110/)
+![Connect Banner](https://img.shields.io/badge/🔗-Connect_With_Me-6B21A8?style=for-the-badge)
+
+<table>
+  <tr>
+    <td align="center" style="padding: 20px;">
+      <a href="https://asadshabir.netlify.app">
+        <img src="https://img.icons8.com/fluency/96/globe.png" width="70" style="filter: drop-shadow(0 0 15px #00E5FF);"/>
+        <br/>
+        <b style="color: #00E5FF;">Portfolio</b>
+      </a>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <a href="https://github.com/asadshabir">
+        <img src="https://img.icons8.com/fluency/96/github.png" width="70" style="filter: drop-shadow(0 0 15px #FFD700);"/>
+        <br/>
+        <b style="color: #FFD700;">GitHub</b>
+      </a>
+    </td>
+    <td align="center" style="padding: 20px;">
+      <a href="https://www.linkedin.com/in/asad-shabir-programmer110/">
+        <img src="https://img.icons8.com/fluency/96/linkedin.png" width="70" style="filter: drop-shadow(0 0 15px #EC4899);"/>
+        <br/>
+        <b style="color: #EC4899;">LinkedIn</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -265,11 +341,42 @@ Focus: AI Agents • Automation • Intelligent Systems
 
 <div align="center">
 
-> **Building the next generation of AI agents, automation systems, and intelligent machines that will power the future.**
+<table>
+  <tr>
+    <td style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px; padding: 30px; border: 3px solid #FFD700;">
+      <h2 style="background: linear-gradient(90deg, #FFD700, #EC4899, #00E5FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 0 0 20px 0;">🚀 Building Tomorrow's AI Future</h2>
 
-🚀 Pushing the boundaries of what's possible with AI
-🤖 Creating autonomous systems that augment human capabilities
-💡 Innovating at the intersection of AI, robotics, and automation
+      <table>
+        <tr>
+          <td align="center" width="25%">
+            <img src="https://img.icons8.com/fluency/96/rocket.png" width="60"/>
+            <br/>
+            <span style="color: #00E5FF;">Pushing AI Boundaries</span>
+          </td>
+          <td align="center" width="25%">
+            <img src="https://img.icons8.com/fluency/96/robot.png" width="60"/>
+            <br/>
+            <span style="color: #00FF9F;">Autonomous Systems</span>
+          </td>
+          <td align="center" width="25%">
+            <img src="https://img.icons8.com/fluency/96/idea.png" width="60"/>
+            <br/>
+            <span style="color: #FFD700;">AI Innovation</span>
+          </td>
+          <td align="center" width="25%">
+            <img src="https://img.icons8.com/fluency/96/neural-network.png" width="60"/>
+            <br/>
+            <span style="color: #EC4899;">Intelligent Machines</span>
+          </td>
+        </tr>
+      </table>
+
+      <p style="color: #FFFFFF; font-size: 1.1em; margin-top: 25px; text-align: center;">
+        <i>"The future belongs to those who build intelligent systems today."</i>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -277,17 +384,17 @@ Focus: AI Agents • Automation • Intelligent Systems
 
 <div align="center">
 
----
+![Footer Divider](https://img.shields.io/badge/-FFD700?style=for-the-badge)
 
-### 🌟 *The future belongs to those who build intelligent systems today.* 🌟
+### 🌟 *Crafted with ❤️ by Asad Shabir | AI Engineer & Automation Expert* 🌟
 
----
+![Last Updated](https://img.shields.io/badge/Last_Updated-2026--03--15-EC4899?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 <!--
-  README.md - Elite Futuristic GitHub Profile
-  Last Updated: 2026-03-11
-  Theme: Cyberpunk AI Engineer
-  Color Palette: #00E5FF, #FF00FF, #00FF9F, #0D1117
+  README.md - Premium 3D Elite GitHub Profile
+  Last Updated: 2026-03-15
+  Theme: Premium AI Engineer with 3D Styling
+  Color Palette: #FFD700 (Gold), #EC4899 (Rose), #00E5FF (Cyan), #6B21A8 (Purple)
 -->
