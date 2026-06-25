@@ -1,53 +1,86 @@
+
 <!--
-  Asad Shabir - Premium 3D Elite GitHub Profile
-  Theme: AI Agents & Automation Engineer - Premium Edition
-  Color Palette: #FFD700 (Gold), #6B21A8 (Deep Purple), #EC4899 (Rose), #00E5FF (Neon Cyan), #0D1117 (Dark)
+  ═══════════════════════════════════════════════════════════════
+  ASAD SHABIR — Premium GitHub Profile
+  Identity: Agentic AI Engineer | Digital FTE Architect
+  Palette: #FFD700 (Gold) | #00E5FF (Cyan) | #EC4899 (Rose) | #0D1117 (Dark)
+  Philosophy: Story-driven. Substance-first. Production-grade.
+  ═══════════════════════════════════════════════════════════════
 -->
 
 <div align="center">
 
-<!-- Animated Hero Banner -->
-<img src="https://img.icons8.com/fluency/256/robot.png" width="150" style="filter: drop-shadow(0 0 30px #FFD700) drop-shadow(0 0 60px #EC4899); animation: pulse 2s ease-in-out infinite;"/>
+<br/>
+
+<!-- ─── LOGO / BRAND MARK ─── -->
+<img width="140" src="https://img.icons8.com/fluency/256/artificial-intelligence.png"
+     alt="ASA-Mind AI"
+     style="filter: drop-shadow(0 0 24px rgba(255,215,0,0.4));" />
+
+<br/><br/>
+
+<!-- ─── NAME WITH HOLOGRAPHIC GRADIENT (via SVG) ─── -->
+<a href="https://asadshabir.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=38&duration=1&pause=999999&color=FFD700&center=true&vCenter=true&width=520&lines=ASAD+SHABIR" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=38&duration=1&pause=999999&color=000000&center=true&vCenter=true&width=520&lines=ASAD+SHABIR" />
+    <img alt="Asad Shabir" src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=38&duration=1&pause=999999&color=FFD700&center=true&vCenter=true&width=520&lines=ASAD+SHABIR" />
+  </picture>
+</a>
 
 <br/>
 
-# <span style="background: linear-gradient(90deg, #FFD700, #EC4899, #00E5FF, #FFD700); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.5em; font-weight: bold; text-shadow: 0 0 30px rgba(255,215,0,0.5);">✨ ASAD SHABIR ✨</span>
-
-### <span style="background: linear-gradient(90deg, #00E5FF, #FFD700, #EC4899, #00FF9F); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 1.2em;">🚀 AI AGENTS & AUTOMATION ENGINEER</span>
-
-<!-- Premium Badges Row -->
-![Premium Developer](https://img.shields.io/badge/✨-Premium_Developer-FFD700?style=for-the-badge&logo=github&logoColor=black)
-![AI Expert](https://img.shields.io/badge/🧠-AI_Expert-EC4899?style=for-the-badge&logo=openai&logoColor=white)
-![Automation Master](https://img.shields.io/badge/⚙️-Automation_Master-00E5FF?style=for-the-badge&logo=robot&logoColor=black)
+### Agentic AI Engineer · Digital FTE Architect · Full-Stack AI Developer
 
 <br/>
 
-<!-- Animated Typing Effect -->
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=600&color=FFD700&center=true&vCenter=true&width=750&lines=🤖+AI+Agents+Architect;⚡+Automation+Engineer;💎+Prompt+Engineering+Expert;🚀+Full+Stack+AI+Developer;🔮+Building+Intelligent+Futures;💡+Innovation+Driven)
+<!-- ─── CORE BADGE CLUSTER ─── -->
+<img src="https://img.shields.io/badge/🤖_Agentic_AI-FFD700?style=for-the-badge&logo=openai&logoColor=black" alt="Agentic AI" />
+<img src="https://img.shields.io/badge/⚡_Digital_FTE-00E5FF?style=for-the-badge&logo=robot&logoColor=black" alt="Digital FTE" />
+<img src="https://img.shields.io/badge/🧠_Multi--Agent_Systems-EC4899?style=for-the-badge&logo=neural&logoColor=white" alt="Multi-Agent Systems" />
+<img src="https://img.shields.io/badge/🔮_RAG_Architecture-6B21A8?style=for-the-badge&logo=vector&logoColor=white" alt="RAG Architecture" />
+<img src="https://img.shields.io/badge/🌐_Trilingual-00FF9F?style=for-the-badge&logo=translate&logoColor=black" alt="Trilingual" />
+
+<br/><br/>
+
+<!-- ─── TYPING ANIMATION ─── -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=800&color=00E5FF&center=true&vCenter=true&width=680&lines=Building+Digital+FTEs+that+work+24%2F7;Designing+Multi-Agent+AI+Orchestration;Crafting+Production-Grade+RAG+Pipelines;Architecting+Scalable+AI+SaaS+Products;Engineering+Intelligent+Workflow+Automation;Writing+at+the+Intersection+of+Code+%26+AI" />
+  </a>
+</p>
 
 <br/>
 
-<!-- Premium Social Badges with Icons -->
+<!-- ─── QUICK STATS ROW ─── -->
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/asadshabir">
-        <img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=1a1a2e" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/📍-Pakistan-00E5FF?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📧-asadshabir505%40gmail.com-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/📱-%2B92%20325%203939049-00FF9F?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://asadshabir.com">
+        <img src="https://img.shields.io/badge/🌐-Portfolio-FFD700?style=for-the-badge&logo=icloud&logoColor=black" alt="Portfolio"/>
       </a>
     </td>
     <td align="center">
       <a href="https://linkedin.com/in/asad-shabir-programmer110/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/>
+        <img src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
     </td>
     <td align="center">
-      <a href="https://asadshabir.netlify.app">
-        <img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=github-pages&logoColor=black&labelColor=1a1a2e" alt="Portfolio"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:asadshabir@example.com">
-        <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email"/>
+      <a href="https://asadshabir.com/blog">
+        <img src="https://img.shields.io/badge/📝-Blog-6B21A8?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
       </a>
     </td>
   </tr>
@@ -55,430 +88,489 @@
 
 <br/>
 
-<!-- Animated Visitor Counter with Glow -->
-<img src="https://komarev.com/ghpvc/?username=asadshabir&label=👁+PROFILE+VIEWS&color=FFD700&style=flat-square&logo=github&logoColor=white" alt="Visitor Count"/>
+<!-- ─── VISITOR COUNTER ─── -->
+<img src="https://komarev.com/ghpvc/?username=asadshabir&label=Profile+Views&color=FFD700&style=flat-square&logo=github&logoColor=white" alt="Profile Views"/>
+
+</div>
 
 <br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION 1: THE STORY — What makes Asad, Asad.
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.icons8.com/fluency/48/book.png" width="30" align="center"/> The Story
+
+> **Marine Sailor → Commando Trainee → Self-taught AI Engineer building Digital FTEs.**
+
+I'm Asad Shabir — a self-taught Agentic AI Engineer from **Sehwan Sharif, Sindh, Pakistan**. My path into AI wasn't a straight line. I served in the **Pakistan Navy as a Marine Sailor**, trained with the **Sindh Police SSU Commando** unit, and then chose to teach myself software engineering from scratch at 23.
+
+Today I design and build **Digital FTEs** (Full-Time Equivalent AI Employees), multi-agent systems, advanced RAG architectures, and production-grade full-stack applications that:
+- **Automate complex business workflows** — replacing repetitive manual work with AI agent teams
+- **Scale businesses** — 24/7 autonomous operation across time zones
+- **Create measurable impact** — built for deployment, not demos
+
+I work across **English, Urdu, and Sindhi** because technology should serve people, not the other way around.
+
 <br/>
 
-</div>
-
-<!-- Custom CSS Animation for Pulse Effect -->
-<style>
-@keyframes pulse {
-  0%, 100% { transform: scale(1); opacity: 1; }
-  50% { transform: scale(1.05); opacity: 0.9; }
-}
-</style>
-
----
-
-## 🏆 PREMIUM PROFILE CARD
-
-<div align="center">
-
-<!-- Animated Profile Card with Enhanced Styling -->
+<!-- ─── JOURNEY TIMELINE ─── -->
 <table>
   <tr>
-    <td align="center" style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #2d1f3d 100%); border-radius: 25px; padding: 35px; border: 3px solid #FFD700; box-shadow: 0 0 40px rgba(255,215,0,0.3);">
-      <img src="https://img.icons8.com/fluency/128/artificial-intelligence.png" width="120" style="filter: drop-shadow(0 0 40px #FFD700); animation: glow 3s ease-in-out infinite;"/><br/><br/>
-      <h2 style="background: linear-gradient(90deg, #FFD700, #EC4899, #00E5FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 15px 0; font-size: 1.8em; font-weight: bold;">Asad Shabir</h2>
-      <p style="color: #00E5FF; font-size: 1.2em; margin: 8px 0; font-weight: bold;">AI Agents & Automation Engineer</p>
-      <p style="color: #00FF9F; font-size: 1em; margin: 5px 0;">📍 Pakistan</p>
-      <br/>
-
-      <!-- Enhanced Focus Areas Table -->
-      <table style="background: rgba(255,255,255,0.05); border-radius: 15px; padding: 15px;">
-        <tr>
-          <td align="center" style="padding: 10px;">
-            <img src="https://img.icons8.com/fluency/40/neural-network.png" width="40"/><br/>
-            <span style="color: #FFD700; font-size: 0.9em;">AI Agent Systems</span>
-          </td>
-          <td align="center" style="padding: 10px;">
-            <img src="https://img.icons8.com/fluency/40/automation.png" width="40"/><br/>
-            <span style="color: #EC4899; font-size: 0.9em;">Automation</span>
-          </td>
-          <td align="center" style="padding: 10px;">
-            <img src="https://img.icons8.com/fluency/40/chatbot.png" width="40"/><br/>
-            <span style="color: #00E5FF; font-size: 0.9em;">AI Assistants</span>
-          </td>
-          <td align="center" style="padding: 10px;">
-            <img src="https://img.icons8.com/fluency/40/full-stack.png" width="40"/><br/>
-            <span style="color: #00FF9F; font-size: 0.9em;">Full-Stack AI</span>
-          </td>
-          <td align="center" style="padding: 10px;">
-            <img src="https://img.icons8.com/fluency/40/robot.png" width="40"/><br/>
-            <span style="color: #7B61FF; font-size: 0.9em;">Robotics</span>
-          </td>
-        </tr>
-      </table>
+    <td width="16%" align="center">
+      <img src="https://img.icons8.com/fluency/48/anchor.png" width="40"/><br/>
+      <b>⚓ Navy</b><br/>
+      <sub>Marine Sailor</sub>
+    </td>
+    <td width="16%" align="center">
+      <img src="https://img.icons8.com/fluency/48/security-checked.png" width="40"/><br/>
+      <b>🛡️ Commando</b><br/>
+      <sub>SSU Trained</sub>
+    </td>
+    <td width="16%" align="center">
+      <img src="https://img.icons8.com/fluency/48/code.png" width="40"/><br/>
+      <b>💻 Self-Taught</b><br/>
+      <sub>Code from Scratch</sub>
+    </td>
+    <td width="16%" align="center">
+      <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="40"/><br/>
+      <b>🧠 AI Engineer</b><br/>
+      <sub>Agentic Systems</sub>
+    </td>
+    <td width="16%" align="center">
+      <img src="https://img.icons8.com/fluency/48/robot.png" width="40"/><br/>
+      <b>🤖 Digital FTE</b><br/>
+      <sub>AI Employees</sub>
+    </td>
+    <td width="16%" align="center">
+      <img src="https://img.icons8.com/fluency/48/rocket.png" width="40"/><br/>
+      <b>🚀 Building</b><br/>
+      <sub>Production AI</sub>
     </td>
   </tr>
 </table>
 
-</div>
-
-<style>
-@keyframes glow {
-  0%, 100% { filter: drop-shadow(0 0 30px #FFD700); }
-  50% { filter: drop-shadow(0 0 50px #FFD700) drop-shadow(0 0 70px #EC4899); }
-}
-</style>
+<br/>
 
 ---
 
-## 🎯 GITHUB ACHIEVEMENTS
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION 2: WHAT I BUILD
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.icons8.com/fluency/48/tools.png" width="30" align="center"/> What I Build
 
 <div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=asadshabir&theme=darkhub&no-frame=true&margin-w=20&row=1)
-
+  <i>Production-grade systems that combine AI agents, automation, and full-stack engineering.</i>
 </div>
+
+<br/>
+
+<!-- ─── 3×2 CARD GRID ─── -->
+<table>
+  <tr>
+    <td width="50%">
+
+    ### 🤖 ASA-Mind — Multi-Agent Chat Assistant
+    Intelligent AI chat assistant built with OpenAI Agents SDK. Uses 5 specialist agents (Project, Skills, Bio, Sales, General) with intelligent routing, streaming responses, conversational memory, and RAG-powered knowledge retrieval.
+
+    **Stack:** OpenAI Agents SDK · Python · FastAPI · React · Supabase · Qdrant · Cohere
+
+    [View Repository →](https://github.com/asadshabir)
+
+    </td>
+    <td width="50%">
+
+    ### 🏥 MediBridge — AI Healthcare Platform
+    Multi-tenant platform connecting patients, doctors, and pharmacies with AI-driven diagnostics, appointment scheduling, e-prescriptions, and RAG-powered medical knowledge retrieval.
+
+    **Stack:** Python · FastAPI · React · TypeScript · PostgreSQL · Docker · JWT · OpenAI
+
+    [View Case Study →](https://asadshabir.com/case-studies/medibridge-healthcare-platform)
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+
+    ### 📚 AI-Powered Robotics Book
+    Interactive educational platform with browser-based Python IDE, 3D robot simulations (Three.js), AI code assistance, 50+ progressive exercises, and a community forum.
+
+    **Stack:** Next.js · TypeScript · Three.js · OpenAI · RAG · Vector DB · Docker
+
+    [View Case Study →](https://asadshabir.com/case-studies/ai-robotics-book-platform)
+
+    </td>
+    <td width="50%">
+
+    ### 📊 Real-Time Analytics Dashboard
+    Live analytics dashboard with WebSocket connections, interactive recharts visualizations, role-based access control, and real-time data streaming.
+
+    **Stack:** React · Node.js · PostgreSQL · WebSockets · Recharts · Docker
+
+    [View Repository →](https://github.com/asadshabir)
+
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+
+    ### 📝 AI Resume Analyzer
+    Smart resume parser using LLM-powered NLP to extract skills, score experience depth, suggest improvements, and provide ATS compatibility analysis.
+
+    **Stack:** Python · LangChain · FastAPI · React · OpenAI
+
+    [View Live →](https://asadshabir.com)
+
+    </td>
+    <td width="50%">
+
+    ### ⚡ Workflow Automation Engine
+    Rule-based automation engine connecting APIs, triggering conditional actions, and orchestrating multi-step business workflows with monitoring and retry logic.
+
+    **Stack:** Python · FastAPI · Celery · Redis · Docker
+
+    [View Repository →](https://github.com/asadshabir)
+
+    </td>
+  </tr>
+</table>
+
+> **Plus:** Full-Stack E-Commerce Platform (Next.js · Supabase · Stripe) · Personal AI Employee System · Portfolio Platform · 30+ smaller projects and counting.
+
+<br/>
 
 ---
 
-## 📊 ACTIVITY DASHBOARD
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION 3: AI SYSTEMS ARCHITECTURE
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.icons8.com/fluency/48/neural-network.png" width="30" align="center"/> AI Systems Architecture
 
 <div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=asadshabir&theme=tokyo-night&hide_border=true&line=FFD700&point=EC4899&area=true)
-
+  <i>Every system I build follows a proven production architecture.</i>
 </div>
+
+<br/>
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                        CLIENT LAYER                              │
+│        React · Next.js · Tailwind · TypeScript                   │
+│        (Responsive · Dark Mode · Animated)                       │
+└───────────────────────────┬─────────────────────────────────────┘
+                            │
+┌───────────────────────────▼─────────────────────────────────────┐
+│                        API LAYER                                 │
+│      FastAPI · Python · Auth · Rate Limiting · CORS             │
+│      (Vercel Serverless + Uvicorn)                               │
+└───────────┬───────────────────────────────┬─────────────────────┘
+            │                               │
+┌───────────▼───────────────┐   ┌───────────▼─────────────────────┐
+│    AI AGENT LAYER          │   │    SERVICE LAYER                │
+│  OpenAI Agents SDK         │   │  Estimator · Reviewer          │
+│  5 Specialist Agents       │   │  Email (Resend) · Analytics    │
+│  Handoff Orchestration     │   │  Subscriptions · File Service  │
+│  Tool Use · Guardrails     │   │  Profile Loader                │
+└───────────┬───────────────┘   └───────────┬─────────────────────┘
+            │                               │
+┌───────────▼───────────────────────────────▼─────────────────────┐
+│                    DATA & KNOWLEDGE LAYER                        │
+│  Qdrant (Vector DB) · Cohere Embeddings · PostgreSQL           │
+│  RAG Pipeline · In-Memory Cache · Session Store                 │
+│  Multi-Provider LLM Fallback (Groq → Gemini → OpenAI)          │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
 
 ---
 
-## 🛠️ PREMIUM TECH STACK
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION 4: TECH STACK
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.icons8.com/fluency/48/developer.png" width="30" align="center"/> Tech Stack
+
+<div align="center">
+  <i>Languages, frameworks, and infrastructure I work with daily.</i>
+</div>
+
+<br/>
+
+### 🧠 AI & ML
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agents SDK" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Groq-00E5FF?style=for-the-badge&logo=groq&logoColor=black" alt="Groq" />
+  <img src="https://img.shields.io/badge/Qdrant-FF4757?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Cohere-FF7755?style=for-the-badge&logo=cohere&logoColor=white" alt="Cohere" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/RAG_Pipelines-6B21A8?style=for-the-badge&logo=vector&logoColor=white" alt="RAG" />
+</div>
+
+### ⚙️ Backend
+<div align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</div>
+
+### 🎨 Frontend
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+</div>
+
+### 🏗️ Infrastructure & DevOps
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION 5: CERTIFICATIONS
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.icons8.com/fluency/48/diploma.png" width="30" align="center"/> Certifications
 
 <div align="center">
 
-![Tech Stack Banner](https://img.shields.io/badge/🛠️-Tech_Stack-FFD700?style=for-the-badge)
+| Certification | Issued By |
+|---|---|
+| <img src="https://img.shields.io/badge/🎓_Agentic_AI_Developer-FFD700?style=for-the-badge" alt="Agentic AI Developer"/> | Governor's Initiative for AI |
+| <img src="https://img.shields.io/badge/🧠_AI_Engineer-00E5FF?style=for-the-badge" alt="AI Engineer"/> | Governor's Initiative for AI |
+| <img src="https://img.shields.io/badge/🤖_AI--Native_Developer-EC4899?style=for-the-badge" alt="AI-Native Developer"/> | Governor's Initiative for AI |
+| <img src="https://img.shields.io/badge/☁️_Cloud_Native-6B21A8?style=for-the-badge" alt="Cloud Native"/> | Governor's Initiative for AI |
+| <img src="https://img.shields.io/badge/⚛️_Full_Stack_Developer-00FF9F?style=for-the-badge" alt="Full Stack Developer"/> | Governor's Initiative for AI |
+| <img src="https://img.shields.io/badge/💡_Prompt_Engineer-FF6B6B?style=for-the-badge" alt="Prompt Engineer"/> | Governor's Initiative for AI |
+| <img src="https://img.shields.io/badge/🧪_QA_Engineer-FFD93D?style=for-the-badge" alt="QA Engineer"/> | Governor's Initiative for AI |
 
 </div>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION 6: LATEST BLOG POSTS
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.icons8.com/fluency/48/blog.png" width="30" align="center"/> Latest from the Blog
+
+<div align="center">
+  <i>No fluff. Just real-world lessons from AI agents, automation, and full-stack development.</i>
+</div>
+
+<br/>
 
 <table>
   <tr>
-    <td align="center" width="25%">
-      <h4 style="color: #FFD700;">🧠 AI & Backend</h4>
-      <img src="https://img.icons8.com/fluency/96/python.png" width="50"/>
-      <img src="https://img.icons8.com/fluency/96/openai.png" width="50"/>
-      <img src="https://img.icons8.com/fluency/96/fastapi.png" width="50"/>
-      <img src="https://img.icons8.com/fluency/96/database.png" width="50"/>
-      <br/>
-      <span style="color: #00E5FF; font-size: 0.85em;">Python • OpenAI • FastAPI • SQLite</span>
+    <td>
+      <b>📘 Building Production-Ready Digital FTEs with OpenAI Agents SDK</b><br/>
+      <sub>Apr 15, 2026 · 8 min read</sub><br/>
+      A practical guide to building autonomous AI employees using multi-agent orchestration, MCP servers, and enterprise-grade RAG pipelines.
     </td>
-    <td align="center" width="25%">
-      <h4 style="color: #EC4899;">🎨 Frontend</h4>
-      <img src="https://img.icons8.com/fluency/96/react.png" width="50"/>
-      <img src="https://img.icons8.com/fluency/96/typescript.png" width="50"/>
-      <img src="https://img.icons8.com/fluency/96/javascript.png" width="50"/>
-      <img src="https://img.icons8.com/fluency/96/redux.png" width="50"/>
-      <br/>
-      <span style="color: #00FF9F; font-size: 0.85em;">React • TypeScript • JavaScript • Redux</span>
+    <td width="30%" align="center">
+      <a href="https://asadshabir.com/blog/building-ai-agents-langchain-groq"><b>Read →</b></a>
     </td>
-    <td align="center" width="25%">
-      <h4 style="color: #00E5FF;">⚙️ Automation</h4>
-      <img src="https://img.icons8.com/fluency/96/n8n.png" width="50"/>
-      <img src="https://img.icons8.com/fluency/96/git.png" width="50"/>
-      <img src="https://img.icons8.com/fluency/96/github.png" width="50"/>
-      <img src="https://img.icons8.com/fluency/96/docker.png" width="50"/>
-      <br/>
-      <span style="color: #FFD700; font-size: 0.85em;">n8n • Git • GitHub • Docker</span>
+  </tr>
+  <tr>
+    <td>
+      <b>📗 Building AI-Powered Workflow Automation with n8n, FastAPI & Agentic AI</b><br/>
+      <sub>Mar 20, 2026 · 6 min read</sub><br/>
+      How to combine visual workflow automation (n8n) with AI agents for intelligent business process automation.
     </td>
-    <td align="center" width="25%">
-      <h4 style="color: #00FF9F;">🤖 AI Specializations</h4>
-      <img src="https://img.icons8.com/fluency/96/neural-network.png" width="50"/>
-      <img src="https://img.icons8.com/fluency/96/chatbot.png" width="50"/>
-      <img src="https://img.icons8.com/fluency/96/robot.png" width="50"/>
-      <img src="https://img.icons8.com/fluency/96/idea.png" width="50"/>
-      <br/>
-      <span style="color: #EC4899; font-size: 0.85em;">Agent Systems • Prompt Engineering • Conversational AI</span>
+    <td width="30%" align="center">
+      <a href="https://asadshabir.com/blog/workflow-automation-production"><b>Read →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>📕 Building Production-Grade AI SaaS Products with FastAPI, Next.js & OpenAI Agents SDK</b><br/>
+      <sub>Feb 28, 2026 · 10 min read</sub><br/>
+      Architectural guide for scalable AI SaaS products: multi-layer design, RAG, PostgreSQL, and multi-agent orchestration.
+    </td>
+    <td width="30%" align="center">
+      <a href="https://asadshabir.com/blog/fastapi-react-fullstack-guide"><b>Read →</b></a>
     </td>
   </tr>
 </table>
 
 <div align="center">
-
-| Specialization | Badge |
-|----------------|-------|
-| **AI Agent Systems** | ![AI Agents](https://img.shields.io/badge/AI+Agent+Systems-FFD700?style=for-the-badge&logo=openai&logoColor=black) |
-| **Prompt Engineering** | ![Prompt Engineering](https://img.shields.io/badge/Prompt+Engineering-EC4899?style=for-the-badge&logo=microsoft&logoColor=white) |
-| **AI Driven Development** | ![AI Dev](https://img.shields.io/badge/AI+Driven+Dev-00E5FF?style=for-the-badge&logo=github&logoColor=white) |
-| **Automation Workflows** | ![Automation](https://img.shields.io/badge/Automation-00FF9F?style=for-the-badge&logo=zap&logoColor=white) |
-| **Conversational AI** | ![Conversational AI](https://img.shields.io/badge/Conversational+AI-7B61FF?style=for-the-badge&logo=dialogflow&logoColor=white) |
-
+  <a href="https://asadshabir.com/blog">
+    <img src="https://img.shields.io/badge/📚-Read_All_Posts-FFD700?style=for-the-badge" alt="All Posts"/>
+  </a>
 </div>
+
+<br/>
 
 ---
 
-## 🚀 FEATURED PROJECTS
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION 7: GITHUB ANALYTICS
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.icons8.com/fluency/48/line-chart.png" width="30" align="center"/> GitHub Analytics
 
 <div align="center">
-
-![Projects Banner](https://img.shields.io/badge/🚀-Featured_Projects-6B21A8?style=for-the-badge)
-
-</div>
-
-<table>
-  <tr>
-    <td style="background: linear-gradient(135deg, #1a1a2e 0%, #2d1f3d 100%); border-radius: 15px; padding: 20px; border: 2px solid #FFD700;">
-      <h3 style="color: #FFD700; margin-top: 0;">🤖 Personal AI Employee</h3>
-      <p style="color: #00E5FF; font-size: 0.9em;">Advanced AI employee system with autonomous task execution</p>
-
-      | Features | Tech Stack |
-      |----------|------------|
-      | 🤖 AI Agent Architecture | Python, OpenAI Agents SDK |
-      | ⚙️ Automation Workflows | FastAPI, n8n |
-      | 🧠 Intelligent Assistant | Chainlit, SQLite |
-
-      [🔗 View Repository](https://github.com/asadshabir/Personal-AI-Employee)
-    </td>
-  </tr>
-  <tr>
-    <td style="background: linear-gradient(135deg, #1a1a2e 0%, #2d1f3d 100%); border-radius: 15px; padding: 20px; border: 2px solid #EC4899;">
-      <h3 style="color: #EC4899; margin-top: 0;">📱 Full Stack Todo App</h3>
-      <p style="color: #00FF9F; font-size: 0.9em;">Modern productivity application with advanced UI</p>
-
-      | Features | Tech Stack |
-      |----------|------------|
-      | 🎨 Modern UI/UX | React, TypeScript |
-      | 🔧 Backend APIs | FastAPI, Python |
-      | 📋 Task Management | SQLite, REST |
-
-      [🔗 View Repository](https://github.com/asadshabir/full-stack-todo-app)
-    </td>
-  </tr>
-  <tr>
-    <td style="background: linear-gradient(135deg, #1a1a2e 0%, #2d1f3d 100%); border-radius: 15px; padding: 20px; border: 2px solid #00E5FF;">
-      <h3 style="color: #00E5FF; margin-top: 0;">🤖 Humanoid Robotic Book</h3>
-      <p style="color: #FFD700; font-size: 0.9em;">Educational resource on humanoid robotics & AI</p>
-
-      | Features | Topics |
-      |----------|--------|
-      | 🤖 Robotics Concepts | Humanoid Systems |
-      | 🔮 AI Future Vision | AI Integration |
-      | 📚 Educational Content | Technical Docs |
-
-      [🔗 View Repository](https://github.com/asadshabir/Humanoid-Robotic-Book)
-    </td>
-  </tr>
-  <tr>
-    <td style="background: linear-gradient(135deg, #1a1a2e 0%, #2d1f3d 100%); border-radius: 15px; padding: 20px; border: 2px solid #00FF9F;">
-      <h3 style="color: #00FF9F; margin-top: 0;">🏥 MediBridge</h3>
-      <p style="color: #EC4899; font-size: 0.9em;">Healthcare technology platform</p>
-
-      | Features | Technologies |
-      |----------|-------------|
-      | 🏥 Healthcare Tech | Digital Health |
-      | 🏗️ System Architecture | Scalable Platform |
-      | 🔗 Medical Integration | API Integration |
-
-      [🔗 View Repository](https://github.com/asadshabir/Medibridge)
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🧠 AI SYSTEMS BUILT
-
-<div align="center">
-
-![AI Systems Banner](https://img.shields.io/badge/🧠-AI_Systems_Built-00E5FF?style=for-the-badge)
 
 <table>
   <tr>
     <td align="center">
-      <img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="70"/>
-      <br/>
-      <b style="color: #FFD700;">Study Assistant AI</b>
+      <img src="https://github-readme-stats.vercel.app/api?username=asadshabir&theme=github_dark&bg_color=0D1117&title_color=FFD700&text_color=00FF9F&icon_color=00E5FF&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&ring_color=EC4899&cache_seconds=1800" alt="GitHub Stats"/>
     </td>
     <td align="center">
-      <img src="https://img.icons8.com/fluency/96/edit.png" width="70"/>
-      <br/>
-      <b style="color: #EC4899;">Content Writer Bot</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/support.png" width="70"/>
-      <br/>
-      <b style="color: #00E5FF;">Customer Support AI</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/science.png" width="70"/>
-      <br/>
-      <b style="color: #00FF9F;">Research Assistant</b>
-    </td>
-    <td align="center">
-      <img src="https://img.icons8.com/fluency/96/robot.png" width="70"/>
-      <br/>
-      <b style="color: #7B61FF;">Automation Bots</b>
+      <img src="https://streak-stats.demolab.com?user=asadshabir&theme=github-dark-blue&background=0D1117&border=FFD700&stroke=FFD700&ring=FFD700&fire=EC4899&currStreakNum=00FF9F&sideNums=00FF9F&dates=00E5FF&sideLabels=FFFFFF&hide_border=true" alt="GitHub Streak"/>
     </td>
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadshabir&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&line=FFD700&point=EC4899&color=00E5FF&area_color=FFD700" width="98%" alt="Activity Graph"/>
 </div>
 
----
-
-## 📈 GITHUB ANALYTICS
-
-<div align="center">
-
-![Analytics Banner](https://img.shields.io/badge/📈-GitHub_Analytics-FF00FF?style=for-the-badge)
-
-<table>
-  <tr>
-    <td align="center" style="border: 2px solid #FFD700; border-radius: 15px; padding: 15px;">
-      <h4 style="color: #FFD700;">GitHub Stats</h4>
-      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asadshabir&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=00FF9F&icon_color=EC4899&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-    </td>
-    <td align="center" style="border: 2px solid #EC4899; border-radius: 15px; padding: 15px;">
-      <h4 style="color: #EC4899;">GitHub Streak</h4>
-      ![GitHub Streak](https://streak-stats.demolab.com?user=asadshabir&theme=dark&background=0D1117&border=FFD700&stroke=FFD700&ring=FFD700&fire=EC4899&currStreakNum=00FF9F&sideNums=00FF9F&dates=00E5FF)
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" style="border: 2px solid #00E5FF; border-radius: 15px; padding: 15px;">
-      <h4 style="color: #00E5FF;">Top Languages</h4>
-      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asadshabir&theme=dark&bg_color=0D1117&title_color=FFD700&text_color=00FF9F&icon_color=EC4899&hide_border=true&layout=compact)
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🐍 CONTRIBUTION VISUALIZATION
-
-<div align="center">
-
-![Visualization Banner](https://img.shields.io/badge/🐍-Contribution_Visualization-00FF9F?style=for-the-badge)
+<br/>
 
 <table>
   <tr>
     <td align="center">
-      <h4 style="color: #FFD700;">Animated Contribution Snake</h4>
-      ![Snake Animation](https://raw.githubusercontent.com/asadshabir/asadshabir/output/github-contribution-grid-snake.svg)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadshabir&theme=github_dark&bg_color=0D1117&title_color=FFD700&text_color=00E5FF&icon_color=EC4899&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
     </td>
-  </tr>
-  <tr>
     <td align="center">
-      <h4 style="color: #EC4899;">Contribution Graph</h4>
-      ![Contribution Graph](https://ghchart.rshah.org/FFD700/asadshabir)
+      <img src="https://github-profile-trophy.vercel.app/?username=asadshabir&theme=darkhub&no-frame=true&margin-w=15&row=2&column=3" alt="Trophies"/>
     </td>
   </tr>
 </table>
 
 </div>
 
+<br/>
+
 ---
 
-## 👁️ VISITOR STATISTICS
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION 8: CONTRIBUTION VISUALIZATION
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.icons8.com/fluency/48/heat-map.png" width="30" align="center"/> Contribution Heatmap
 
 <div align="center">
 
-![Visitor Counter](https://komarev.com/ghpvc/?username=asadshabir&label=Profile+Views&color=FFD700&style=for-the-badge&logo=github&logoColor=white)
+![Contribution Snake](https://raw.githubusercontent.com/asadshabir/asadshabir/output/github-contribution-grid-snake.svg)
+
+<br/>
+
+![GitHub Chart](https://ghchart.rshah.org/FFD700/asadshabir)
 
 </div>
 
+<br/>
+
 ---
 
-## 🔗 CONNECT WITH ME
+<!-- ═══════════════════════════════════════════════════════════
+     SECTION 9: CONNECT
+     ═══════════════════════════════════════════════════════════ -->
+
+## <img src="https://img.icons8.com/fluency/48/handshake.png" width="30" align="center"/> Let's Connect
 
 <div align="center">
 
-![Connect Banner](https://img.shields.io/badge/🔗-Connect_With_Me-6B21A8?style=for-the-badge)
+<i>Open for freelance projects, consulting, and full-time remote roles.<br/>
+Basic AI solutions start under $500. Complex systems require detailed scoping.<br/>
+Free initial consultations offered.</i>
 
-<table>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <a href="https://asadshabir.netlify.app">
-        <img src="https://img.icons8.com/fluency/96/globe.png" width="70" style="filter: drop-shadow(0 0 15px #00E5FF);"/>
-        <br/>
-        <b style="color: #00E5FF;">Portfolio</b>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://github.com/asadshabir">
-        <img src="https://img.icons8.com/fluency/96/github.png" width="70" style="filter: drop-shadow(0 0 15px #FFD700);"/>
-        <br/>
-        <b style="color: #FFD700;">GitHub</b>
-      </a>
-    </td>
-    <td align="center" style="padding: 20px;">
-      <a href="https://www.linkedin.com/in/asad-shabir-programmer110/">
-        <img src="https://img.icons8.com/fluency/96/linkedin.png" width="70" style="filter: drop-shadow(0 0 15px #EC4899);"/>
-        <br/>
-        <b style="color: #EC4899;">LinkedIn</b>
-      </a>
-    </td>
-  </tr>
-</table>
+<br/><br/>
+
+<a href="https://asadshabir.com">
+  <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=icloud&logoColor=black" alt="Portfolio"/>
+</a>
+<a href="https://github.com/asadshabir">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/asad-shabir-programmer110/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://asadshabir.com/blog">
+  <img src="https://img.shields.io/badge/Blog-EC4899?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/>
+</a>
+<a href="mailto:asadshabir505@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://wa.me/923253939049">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/💬_English_·_اردو_·_سنڌي-00E5FF?style=for-the-badge" alt="Languages"/>
 
 </div>
 
----
-
-## 🔮 FUTURE VISION
-
-<div align="center">
-
-<table>
-  <tr>
-    <td style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 20px; padding: 30px; border: 3px solid #FFD700;">
-      <h2 style="background: linear-gradient(90deg, #FFD700, #EC4899, #00E5FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin: 0 0 20px 0;">🚀 Building Tomorrow's AI Future</h2>
-
-      <table>
-        <tr>
-          <td align="center" width="25%">
-            <img src="https://img.icons8.com/fluency/96/rocket.png" width="60"/>
-            <br/>
-            <span style="color: #00E5FF;">Pushing AI Boundaries</span>
-          </td>
-          <td align="center" width="25%">
-            <img src="https://img.icons8.com/fluency/96/robot.png" width="60"/>
-            <br/>
-            <span style="color: #00FF9F;">Autonomous Systems</span>
-          </td>
-          <td align="center" width="25%">
-            <img src="https://img.icons8.com/fluency/96/idea.png" width="60"/>
-            <br/>
-            <span style="color: #FFD700;">AI Innovation</span>
-          </td>
-          <td align="center" width="25%">
-            <img src="https://img.icons8.com/fluency/96/neural-network.png" width="60"/>
-            <br/>
-            <span style="color: #EC4899;">Intelligent Machines</span>
-          </td>
-        </tr>
-      </table>
-
-      <p style="color: #FFFFFF; font-size: 1.1em; margin-top: 25px; text-align: center;">
-        <i>"The future belongs to those who build intelligent systems today."</i>
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
+<br/>
 
 ---
 
 <div align="center">
 
-![Footer Divider](https://img.shields.io/badge/-FFD700?style=for-the-badge)
+<br/>
 
-### 🌟 *Crafted with ❤️ by Asad Shabir | AI Engineer & Automation Expert* 🌟
+> *"The future belongs to those who build intelligent systems today."*
 
-![Last Updated](https://img.shields.io/badge/Last_Updated-2026--03--15-EC4899?style=for-the-badge&logo=github&logoColor=white)
+<br/>
+
+<a href="https://asadshabir.com">
+  <img src="https://img.shields.io/badge/🚀-Visit_Full_Portfolio-FFD700?style=for-the-badge" alt="Visit Portfolio"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=asadshabir&label=Profile+Views&color=FFD700&style=flat-square&logo=github&logoColor=white" alt="Profile Views"/>
+
+<br/>
+
+<sub>Last updated: 2026-06-25 · Crafted with precision by Asad Shabir</sub>
 
 </div>
 
 <!--
-  README.md - Premium 3D Elite GitHub Profile
-  Last Updated: 2026-03-15
-  Theme: Premium AI Engineer with 3D Styling
-  Color Palette: #FFD700 (Gold), #EC4899 (Rose), #00E5FF (Cyan), #6B21A8 (Purple)
+  ═══════════════════════════════════════════════════════════════
+  ASAD SHABIR — Premium GitHub Profile
+  ═══════════════════════════════════════════════════════════════
+  Color Palette:
+    Gold    #FFD700 — Primary brand accent
+    Cyan    #00E5FF — Tech & innovation
+    Rose    #EC4899 — Creative energy
+    Purple  #6B21A8 — Depth & sophistication
+    Emerald #00FF9F — Growth & vitality
+    Dark    #0D1117 — Foundation (GitHub dark theme native)
+
+  Design principles:
+    - Story-driven: Navy → Commando → AI Engineer narrative first
+    - Substance-rich: Real projects, real architecture, real certifications
+    - Clean hierarchy: Scannable sections with consistent spacing
+    - Premium badges: shields.io for all technology indicators
+    - GitHub-native: Works within markdown/HTML constraints
+    - No custom CSS: Renders correctly on all GitHub surfaces
+  ═══════════════════════════════════════════════════════════════
 -->
